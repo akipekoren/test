@@ -2,5 +2,5 @@
 
 int something(int) 
 {
-return 3;
+return 5;
 }
