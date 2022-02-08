@@ -1,4 +1,4 @@
 int trackChanges(int) 
 {
-return 4;
+return 2;
 }
